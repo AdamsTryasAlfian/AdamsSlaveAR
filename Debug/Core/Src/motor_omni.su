@@ -1,0 +1,3 @@
+motor_omni.c:37:6:MotorWheelsSP	32	static
+motor_omni.c:53:6:motor_omni_kontrol	32	static
+motor_omni.c:102:6:motor_omni_set_pwm	16	static
